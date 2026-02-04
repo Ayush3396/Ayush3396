@@ -1,66 +1,86 @@
-# Hi 👋, I'm Ayush Kumar
+<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 
-🚀 Full Stack Developer | Frontend & Backend Enthusiast | Open Source Learner
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+%26+Backend+Enthusiast;Open+Source+Learner;Turning+Ideas+Into+Reality" />
+</p>
 
-I love building scalable, responsive, and user-friendly web applications using modern technologies.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ayush3396&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 About Me
+
+- 🚀 Full Stack Developer
+- 💻 Passionate about Web Technologies
+- 🌱 Always Learning New Skills
+- 🤝 Open to Collaboration
+
+---
+
+## ⚙️ Tech Stack
 
 ### 🎨 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux&theme=dark" />
+</p>
 
 ### 🛠️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,npm&theme=dark" />
+</p>
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-008080?style=for-the-badge)
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+</p>
 
 ### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![FigJam](https://img.shields.io/badge/FigJam-9D4EDD?style=for-the-badge)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ubuntu&theme=dark" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush3396&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush3396&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush3396&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush3396&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush3396&theme=darkhub&no-frame=true&row=1" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-🔗 LinkedIn: https://linkedin.com/in/your-profile  
-📧 Email: your-email@gmail.com  
-🌐 Portfolio: https://your-portfolio.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush-kumar-523b7b217/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Kumar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:realpratapian3396ayush@gmail.com">
+    <img src="https://img.shields.io/badge/Email-realpratapian3396ayush@gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-⭐️ *Turning ideas into reality with code 🚀*
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Ayush3396/Ayush3396/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐️ _Building the future, one line of code at a time 🚀_
